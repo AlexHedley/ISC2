@@ -23,3 +23,11 @@
 - https://www.brighttalk.com/webcast/19929/585068
 - https://www.isc2.org/News-and-Events/Webinars/Membership
   - [viewing-certificate](brighttalk-viewing-certificate-isc-guide-to-membership-june.pdf)
+
+**Exam Prep Hacked: Study Tips and Tricks that Work**
+
+📅 Aug 04 2023| 57 mins (Recording)
+
+- https://www.brighttalk.com/webcast/260/590304
+- https://www.isc2.org/News-and-Events/Webinars/Knowledge-Vault#?commid=590304
+  - [viewing-certificate](brighttalk-viewing-certificate-exam-prep-hacked-study-tips-and-tricks-that-work.pdf)
